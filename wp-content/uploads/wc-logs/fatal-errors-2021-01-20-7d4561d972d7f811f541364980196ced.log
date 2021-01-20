@@ -1,0 +1,4 @@
+2021-01-20T11:29:21+00:00 CRITICAL Cannot redeclare wk_custom_tab_data() (previously declared in C:\xampp\htdocs\wordpress_test\wp-content\themes\twentytwentyone\functions.php:648) in C:\xampp\htdocs\wordpress_test\wp-content\themes\twentytwentyone\functions.php on line 680
+
+2021-01-20T11:29:21+00:00 CRITICAL Cannot redeclare wk_custom_tab_data() (previously declared in C:\xampp\htdocs\wordpress_test\wp-content\themes\twentytwentyone\functions.php:648) in C:\xampp\htdocs\wordpress_test\wp-content\themes\twentytwentyone\functions.php on line 680
+
